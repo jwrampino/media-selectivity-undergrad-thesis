@@ -30,6 +30,10 @@ This project relies on the following tools and libraries:
 
 ## Citation
 
+Rampino, Jacob William. *Identifying and Analyzing Selectivity in News Media Coverage Through Hierarchical Topic Modeling: Israel-Palestine as a Case Study.* April 29, 2025. https://purl.lib.fsu.edu/diginole/honors_thesis_submission-cb2ac21b-e4e4-46b1-9d39-3c2b4a7a0833
+
+**Note:** The official archival copy is under embargo in Florida State University’s DigiNole repository until 2027. This GitHub project contains the code developed for the thesis.
+
 ## License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
