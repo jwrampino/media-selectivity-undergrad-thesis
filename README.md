@@ -1,6 +1,6 @@
 # media-selectivity-undergrad-thesis
 
-Code for **"Identifying and Analyzing Selectivity in News Media Coverage Through Hierarchical Topic Modeling: Israel-Palestine as a Case Study"**
+Code for **["Identifying and Analyzing Selectivity in News Media Coverage Through Hierarchical Topic Modeling: Israel-Palestine as a Case Study"](https://github.com/jwrampino/media-selectivity-undergrad-thesis/blob/main/Identifying%20and%20Analyzing%20Selectivity%20in%20News%20Media%20Coverage%20Through%20Hierarchical%20Topic%20Modeling%3A%20Israel-Palestine%20as%20a%20Case%20Study.pdf)**
 
 ## Abstract
 
