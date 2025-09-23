@@ -23,7 +23,7 @@ This study utilizes a corpus of news articles to identify broad trends in media 
 This project relies on the following tools and libraries:
 - [BERTopic](https://github.com/MaartenGr/BERTopic) (Grootendorst, 2022) for topic modeling  
 - [HDBSCAN](https://hdbscan.readthedocs.io/) for clustering  
-- [scikit-learn](https://scikit-learn.org/) (including PCA) for preprocessing and decomposition  
+- [scikit-learn](https://scikit-learn.org/) (including PCA) for decomposition  
 - [NumPy](https://numpy.org/) and [pandas](https://pandas.pydata.org/) for data handling  
 - [Matplotlib](https://matplotlib.org/) for visualization
 - [UMAP](https://umap-learn.readthedocs.io/) was tested for dimensionality reduction but replaced with PCA
