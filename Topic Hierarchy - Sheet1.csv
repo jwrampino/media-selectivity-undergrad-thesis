@@ -1,0 +1,63 @@
+Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+124,bst_blocktime_said_israel_gaza,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62]",120,gaza_killed_people_israeli_said,123,bst_blocktime_publishedtime_said_israel,1.995601406
+123,bst_blocktime_publishedtime_said_israel,"[0, 1, 2, 4, 6, 7, 8, 9, 10, 12, 13, 14, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 34, 35, 37, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 53, 54, 56, 57, 60, 61, 62]",121,war_israel_conflict_hamas_oil,122,blocktime_bst_publishedtime_updatedtimeupdated_graphic,1.902772807
+122,blocktime_bst_publishedtime_updatedtimeupdated_graphic,"[1, 6, 8, 9, 12, 14, 19, 21, 22, 25, 27, 29, 30, 38, 40, 42, 46, 49, 50, 51, 56, 61]",117,jewish_said_imam_community_mr,118,blocktime_bst_publishedtime_updatedtimeupdated_graphic,1.632367754
+121,war_israel_conflict_hamas_oil,"[0, 2, 4, 7, 10, 13, 18, 20, 24, 26, 28, 34, 35, 37, 39, 41, 43, 44, 47, 48, 53, 54, 57, 60, 62]",119,oil_conflict_war_israel_prices,114,civilians_hamas_violence_terrorism_innocent,1.56017981
+120,gaza_killed_people_israeli_said,"[3, 5, 11, 15, 16, 17, 23, 31, 32, 33, 36, 45, 52, 55, 58, 59]",107,killed_gaza_israeli_people_hamas,110,gaza_humanitarian_aid_flights_tel,1.369814639
+119,oil_conflict_war_israel_prices,"[0, 2, 7, 10, 13, 24, 37, 39, 41, 43, 47, 53, 62]",104,cent_oil_prices_percent_inflation,108,conflict_israel_war_middle_iran,1.258061303
+118,blocktime_bst_publishedtime_updatedtimeupdated_graphic,"[8, 14, 25, 49, 50, 56]",113,graphic_query_requirement_editor_respect,77,blocktime_bst_publishedtime_updatedtimeupdated_pdf,1.240298848
+117,jewish_said_imam_community_mr,"[1, 6, 9, 12, 19, 21, 22, 27, 29, 30, 38, 40, 42, 46, 51, 61]",115,imam_photo_said_its_dont,116,jewish_said_antisemitism_community_support,1.192856113
+116,jewish_said_antisemitism_community_support,"[6, 9, 12, 19, 21, 30, 38, 42, 51]",84,jewish_antisemitism_community_jews_palestine,103,said_mr_voice_indigenous_leader,1.107445654
+115,imam_photo_said_its_dont,"[1, 22, 27, 29, 40, 46, 61]",109,imam_photo_email_court_replacing,106,dont_its_said_life_children,1.046945129
+114,civilians_hamas_violence_terrorism_innocent,"[4, 18, 20, 26, 28, 34, 35, 44, 48, 54, 57, 60]",95,hamas_civilians_israel_palestinians_attacks,101,violence_terrorism_civilians_war_innocent,1.016448431
+113,graphic_query_requirement_editor_respect,"[25, 49, 50, 56]",25,graphic_mischief_adventure_yahel_more,112,query_requirement_editor_respect_article,1.000008183
+112,query_requirement_editor_respect_article,"[49, 50, 56]",111,mr_related_caption_abbotsford_israeliarab,56,query_requirement_editor_respect_article,0.9999931579
+111,mr_related_caption_abbotsford_israeliarab,"[49, 50]",50,mr_nurick_recipe_either_taught,49,related_caption_abbotsford_israeliarab_truckloads,0.9999741081
+110,gaza_humanitarian_aid_flights_tel,"[5, 17, 23, 31, 32, 33, 45, 55, 58]",102,gaza_humanitarian_aid_people_crossing,98,tel_aviv_flights_embassy_israel,0.9616962331
+109,imam_photo_email_court_replacing,"[1, 27, 29]",27,imam_rabbi_jewish_shabbat_born,97,photo_email_court_replacing_appointed,0.9529060275
+108,conflict_israel_war_middle_iran,"[2, 7, 13, 24, 37, 39, 41, 43, 53, 62]",99,conflict_war_iran_middle_east,105,israel_netanyahu_president_biden_state,0.9198243913
+107,killed_gaza_israeli_people_hamas,"[3, 11, 15, 16, 36, 52, 59]",74,israeli_hamas_rockets_fired_launched,90,killed_gaza_people_health_wounded,0.8552683136
+106,dont_its_said_life_children,"[22, 40, 46, 61]",46,photograph_ferguson_forgive_darlington_dan,100,dont_said_its_children_life,0.8116596096
+105,israel_netanyahu_president_biden_state,"[13, 24, 37, 39, 53, 62]",78,peace_israel_palestinian_conflict_solution,85,netanyahu_president_biden_minister_prime,0.7975560618
+104,cent_oil_prices_percent_inflation,"[0, 10, 47]",83,cent_oil_prices_percent_inflation,47,risks_risk_world_cost_going,0.7878674565
+103,said_mr_voice_indigenous_leader,"[6, 12, 19, 42, 51]",86,said_indigenous_voice_we_people,93,mr_president_house_trump_speaker,0.7578767116
+102,gaza_humanitarian_aid_people_crossing,"[5, 23, 31, 33, 45, 58]",87,families_people_gaza_children_family,96,humanitarian_aid_gaza_crossing_egypt,0.7246037578
+101,violence_terrorism_civilians_war_innocent,"[4, 20, 48, 57, 60]",94,terrorism_forms_said_condemned_manifestations,91,violence_terrorism_civilians_war_innocent,0.7078420164
+100,dont_said_its_children_life,"[22, 40, 61]",89,dont_its_and_said_shoulders,40,children_murdered_dead_murder_horrific,0.6958060926
+99,conflict_war_iran_middle_east,"[2, 7, 41, 43]",72,china_iran_beijing_saudi_ukraine,66,war_conflict_middle_iran_hezbollah,0.6908565024
+98,tel_aviv_flights_embassy_israel,"[17, 32, 55]",82,family_assistance_repatriation_embassy_home,17,tel_aviv_flights_airport_flight,0.67592503
+97,photo_email_court_replacing_appointed,"[1, 29]",1,replacing_court_appointed_email_judge,29,photo_enltr_up_hardcopy_recommendations,0.6694407565
+96,humanitarian_aid_gaza_crossing_egypt,"[5, 23, 33, 58]",33,police_hospital_said_emergency_evacuation,92,humanitarian_aid_gaza_crossing_egypt,0.6650063315
+95,hamas_civilians_israel_palestinians_attacks,"[18, 26, 28, 34, 35, 44, 54]",73,hamas_palestinians_israel_palestinian_international,88,hamas_civilians_attacks_innocent_terrorist,0.6350426189
+94,terrorism_forms_said_condemned_manifestations,"[48, 60]",48,forms_terrorism_condemned_manifestations_condemn,60,terrorism_said_law_war_complementary,0.6064521277
+93,mr_president_house_trump_speaker,"[12, 19, 51]",80,speaker_house_mr_president_leader,51,trump_mr_political_time_politics,0.5972407471
+92,humanitarian_aid_gaza_crossing_egypt,"[5, 23, 58]",79,displaced_people_patients_fled_hospitals,5,humanitarian_aid_gaza_crossing_egypt,0.5887453442
+91,violence_terrorism_civilians_war_innocent,"[4, 20, 57]",57,violence_war_terrorism_conflict_world,76,violence_civilians_terrorism_innocent_war,0.5877426944
+90,killed_gaza_people_health_wounded,"[3, 11, 15, 59]",81,killed_health_ministry_wounded_people,69,gaza_israeli_city_people_evacuate,0.5760587443
+89,dont_its_and_said_shoulders,"[22, 61]",61,stop_story_dont_crying_46yearold,22,dont_shoulders_and_its_said,0.5623734794
+88,hamas_civilians_attacks_innocent_terrorist,"[18, 26, 34, 44]",68,civilians_hamas_gaza_innocent_israeli,63,hamas_attacks_terrorist_jewish_innocent,0.547610783
+87,families_people_gaza_children_family,"[31, 45]",31,gaza_children_families_people_palestinians,45,people_families_need_safety_family,0.5348915015
+86,said_indigenous_voice_we_people,"[6, 42]",42,said_university_agmon_love_mr,6,indigenous_voice_said_people_justice,0.5294900961
+85,netanyahu_president_biden_minister_prime,"[13, 37]",37,netanyahu_israel_trump_stand_support,13,president_biden_netanyahu_minister_blinken,0.5213425886
+84,jewish_antisemitism_community_jews_palestine,"[9, 21, 30, 38]",70,jewish_antisemitism_jews_community_antisemitic,71,jewish_israel_palestine_solidarity_support,0.5113122731
+83,cent_oil_prices_percent_inflation,"[0, 10]",0,cent_index_percent_points_rose,10,oil_prices_inflation_rates_global,0.4852912287
+82,family_assistance_repatriation_embassy_home,"[32, 55]",32,assistance_family_home_repatriation_emergency,55,family_embassy_missing_israel_repatriation,0.4770545937
+81,killed_health_ministry_wounded_people,"[3, 11]",3,killed_wounded_people_toll_hit,11,killed_health_ministry_wounded_gaza,0.4758817272
+80,speaker_house_mr_president_leader,"[12, 19]",19,house_speaker_president_minister_jordan,12,mr_voice_trump_party_said,0.456333802
+79,displaced_people_patients_fled_hospitals,"[23, 58]",58,displaced_gaza_fled_homes_hospital,23,patients_hospitals_humanitarian_evacuation_people,0.4561546783
+78,peace_israel_palestinian_conflict_solution,"[24, 39, 53, 62]",62,hamas_gaza_israel_palestinian_conflict,75,peace_israel_palestinian_solution_state,0.453630802
+77,blocktime_bst_publishedtime_updatedtimeupdated_pdf,"[8, 14]",14,updatedtimeupdated_blocktime_bst_pdf_340000,8,publishedtime_blocktime_bst_1110pm_437pm,0.4385347133
+76,violence_civilians_terrorism_innocent_war,"[4, 20]",4,violence_terrorism_civilians_innocent_terrorists,20,violence_fear_suffering_humanity_its,0.4307765665
+75,peace_israel_palestinian_solution_state,"[24, 39, 53]",64,peace_israel_solution_palestinian_state,53,palestinians_palestinian_israel_defend_peace,0.4287849505
+74,israeli_hamas_rockets_fired_launched,"[16, 36, 52]",36,hamas_war_attack_israel_israeli,65,rockets_israeli_fired_saturday_launched,0.4017340534
+73,hamas_palestinians_israel_palestinian_international,"[28, 35, 54]",54,hamas_palestinians_israel_palestinian_conflict,67,hamas_palestinians_israel_palestinian_civilians,0.3910702561
+72,china_iran_beijing_saudi_ukraine,"[41, 43]",41,china_beijing_cooperation_belt_economic,43,china_iran_saudi_us_states,0.3811456208
+71,jewish_israel_palestine_solidarity_support,"[9, 38]",38,jewish_antisemitism_palestine_solidarity_israel,9,jewish_israel_support_solidarity_palestine,0.3797665754
+70,jewish_antisemitism_jews_community_antisemitic,"[21, 30]",30,jewish_antisemitism_jews_community_students,21,jewish_antisemitism_jews_antisemitic_propalestinian,0.3791073925
+69,gaza_israeli_city_people_evacuate,"[15, 59]",59,gaza_hostages_israeli_taken_hospital,15,gaza_evacuate_million_city_people,0.3560743389
+68,civilians_hamas_gaza_innocent_israeli,"[18, 44]",44,hamas_civilians_gaza_israeli_attack,18,civilians_hamas_innocent_children_palestinian,0.3297997338
+67,hamas_palestinians_israel_palestinian_civilians,"[28, 35]",28,hamas_palestinians_israel_right_international,35,hamas_palestinians_israel_gaza_palestinian,0.3227455961
+66,war_conflict_middle_iran_hezbollah,"[2, 7]",7,conflict_war_middle_ukraine_oil,2,war_hezbollah_conflict_israel_hamas,0.3093389686
+65,rockets_israeli_fired_saturday_launched,"[16, 52]",16,fired_rockets_israeli_launched_saturday,52,gaza_israeli_saturday_hamas_attack,0.2871907904
+64,peace_israel_solution_palestinian_state,"[24, 39]",24,conflict_israel_iran_peace_solution,39,peace_state_palestinian_solution_israel,0.2775603197
+63,hamas_attacks_terrorist_jewish_innocent,"[26, 34]",34,hamas_attacks_terrorist_terrorists_civilians,26,jewish_innocent_hamas_condemn_terrorist,0.267410373
